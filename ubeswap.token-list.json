@@ -37,6 +37,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_cGLD.png"
     },
+    {
+      "chainId":44787,
+      "address": "0x51AE41DAfEec6CA0858a8af2Ee4BA31CDD89B4d4",
+      "name": "Celo Helpi",
+      "symbol": "cHLP",
+      "decimals": "18",
+      "logoURI": "https://raw.githubusercontent.com/Ubeswap/default-token-list/master/assets/asset_cHELPI.png"
+    },
 
     {
       "chainId": 42220,
